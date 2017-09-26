@@ -1,0 +1,32 @@
+#body
+{
+  background-color: #CDCDF3;
+
+}
+
+#name
+{
+ height:50px;
+ width: 5-px;
+}
+
+#links
+{
+  height: 60px;
+  width: 400px;
+  background-color: #E0AFAF;
+}
+
+#button
+{
+    width:90px;
+	margin: 15px;
+	background-color: #DDE2C8;
+	line-height: 30px;
+	text-align:center;
+	color:#285A3D;
+	border-radius: 9px;
+	box-shadow: 0px 0px 2px rgba(172, 160, 162, 0.2),
+		1px 1px 3px rgba(160, 41, 41, 0.2);
+	cursor: pointer;
+}
